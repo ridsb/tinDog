@@ -29,6 +29,7 @@ Tindog allows dog owners to find the perfect match for their furry friends. With
   ![alt text](image-2.png)
 
 - **PHONE**:
+  
   ![alt text](image-1.png)
 
 ## 🌐 Live Demo

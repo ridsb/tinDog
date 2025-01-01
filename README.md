@@ -34,8 +34,7 @@ Tindog allows dog owners to find the perfect match for their furry friends. With
 
 ## 🌐 Live Demo
 
-If you've deployed your project, include the live demo link here:  
-[View Tindog Live](#)
+https://ridsb.github.io/tinDog/
 
 ## 📂 File Structure
 
